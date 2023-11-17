@@ -276,7 +276,8 @@ box-sizing: border-box;
 /* nav  */
 /* home section  */
 .home {
-    background-color: beige;
+    /* background-color: beige; */
+    background-color: #f5f5dc96;
     padding-bottom: 0;
 }
 .dark-theme .home {
