@@ -287,8 +287,8 @@ box-sizing: border-box;
     hsl(0,0%,6%)30%);
 }
 .home-container {
-    padding-top: 4rem;
-    row-gap: 3.5rem;
+    padding-top: 2rem;
+    /* row-gap: 3.5rem; */
 }
 .home-title,
 .home-value-number{
