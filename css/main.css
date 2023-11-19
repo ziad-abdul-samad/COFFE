@@ -297,7 +297,7 @@ color: #fff;
 .home-title {
     font-size: var(--biggest-font-size);
     line-height: 120%;
-    margin-bottom:1.25rem ;
+    margin-bottom:1rem ;
     direction: rtl;
     color: #C38154;
 }
@@ -305,7 +305,7 @@ color: #fff;
     color: white;
 }
 .home-description {
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
     direction: rtl;
     color: #777;
 }
